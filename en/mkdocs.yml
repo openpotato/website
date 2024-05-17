@@ -1,0 +1,95 @@
+# Project information
+site_name: OpenPotato
+site_description: 'OpenPotato Website'
+site_author: 'STÜBER SYSTEMS GmbH'
+site_url: 'https://www.openpotato.org/en'
+
+# Copyright
+copyright:
+  '&copy; 2024 STÜBER SYSTEMS GmbH : <a href="https://legal.stueber.co.uk/imprint.php">Imprint</a> : <a href="https://legal.stueber.co.uk/privacy.php">Privacy</a>'
+
+# Repository
+repo_name: 'On GitHub'
+repo_url: 'https://github.com/openpotato/website'
+
+# Theming
+theme:
+  name: material
+  language: en
+  features:
+    - content.code.copy
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    #- navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: 'green'
+      accent: 'green'
+      toggle:
+        icon: material/brightness-7
+        name: In den Dunkelmodus wechseln
+    - scheme: slate
+      primary: 'green'
+      accent: 'green'
+      toggle:
+        icon: material/brightness-4
+        name: In den Hellmodus wechseln
+  font: false
+  favicon: 'assets/logos/favicon.ico'
+  logo: 'assets/logos/logo.svg'
+  include_search_page: false
+  search_index_only: true
+  static_templates:
+    - 404.html
+
+# Social media & multi language
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon 
+      link: https://fosstodon.org/@openpotato
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/openpotatis
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Deutsch
+      lang: de
+
+# Customization
+extra_css:
+  - assets/css/custom.css
+
+# Plugins
+plugins:
+  - blog:
+      blog_dir: blog
+  - search
+  - minify:
+      minify_html: true
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+
+# Navigation
+nav:
+  - About us:
+    - Introduction: index.md
+    - Open Data: opendata.md
+    - Contact: contact.md
+  - Blog: 
+    - blog/index.md
