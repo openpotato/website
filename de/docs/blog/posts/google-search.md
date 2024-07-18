@@ -2,6 +2,7 @@
 title: Effektiv Suchen mit Google
 date: 2024-05-17
 authors: [fstueber]
+slug: effektiv-suchen-mit-google
 description: >
   Google-Suchoperatoren, mit denen du deine Google-Suche verfeinern und sehr viel genauere Ergebnisse 
   erzielen kannst.

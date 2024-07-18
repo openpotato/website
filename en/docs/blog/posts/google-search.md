@@ -2,6 +2,7 @@
 title: How To Use Google Search Effectively
 date: 2024-05-17
 authors: [fstueber]
+slug: how-to-use-google-search-effectively
 description: >
   Google search operators that can refine your Google search and yield much more accurate results.
 categories:
