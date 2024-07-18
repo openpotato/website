@@ -60,12 +60,14 @@ Here:
 ### Key Differences
 
 + **Scope**: URI is a broad concept that includes both URLs and URNs.
+
 + **Purpose**:
-   - URL: Used to locate a resource.
-   - URN: Used to name a resource uniquely.
+    - URL: Used to locate a resource.
+    - URN: Used to name a resource uniquely.
+
 + **Structure**:
-   - URL: Contains information about how to access a resource (protocol, hostname, path).
-   - URN: Contains a unique name within a namespace, without location information.
+    - URL: Contains information about how to access a resource (protocol, hostname, path).
+    - URN: Contains a unique name within a namespace, without location information.
 
 ### Examples in Context
 

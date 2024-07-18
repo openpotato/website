@@ -59,9 +59,11 @@ Hier:
 ## Hauptunterschiede
 
 + **Geltungsbereich**: URI ist ein umfassender Begriff, der sowohl URLs als auch URNs einschließt.
+
 + **Zweck**:
     - URL: Wird verwendet, um den Standort einer Ressource anzugeben.
     - URN: Wird verwendet, um eine Ressource eindeutig zu benennen.
+
 + **Struktur**:
     - URL: Enthält Informationen darüber, wie auf eine Ressource zugegriffen werden kann (Protokoll, Hostname, Pfad).
     - URN: Enthält einen eindeutigen Namen innerhalb eines Namespace, ohne Standortinformationen.
