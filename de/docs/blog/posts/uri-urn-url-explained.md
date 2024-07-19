@@ -6,7 +6,7 @@ slug: uri-urn-url-unterschiede
 description: >
   Erläuterung der grundlegenden Konzepte von URI, URN und URL. 
 categories:
-  - Web
+  - Standards
 ---
 
 # URI, URL, URN - Was ist der Unterschied?

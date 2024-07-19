@@ -6,7 +6,7 @@ slug: uri-urn-url-explained
 description: >
   Explanation of the basic concepts of URI, URN and URL. 
 categories:
-  - Web
+  - Standards
 ---
 
 # URI, URL, URN - What's the difference?
