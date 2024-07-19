@@ -9,7 +9,7 @@ categories:
   - Standards
 ---
 
-### Introduction to Markdown
+# Introduction to Markdown
 
 Markdown is a markup language designed to make text formatting simple and readable. It is widely used for creating documentation, blog posts, and other texts where simple formatting suffices. This blog post provides an in-depth introduction to Markdown.
 
