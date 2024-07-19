@@ -67,10 +67,3 @@ Hier:
 + **Struktur**:
     - URL: Enthält Informationen darüber, wie auf eine Ressource zugegriffen werden kann (Protokoll, Hostname, Pfad).
     - URN: Enthält einen eindeutigen Namen innerhalb eines Namespace, ohne Standortinformationen.
-
-## Beispiele im Kontext
-
-Eine URI kann entweder eine URL oder eine URN sein.
-
-+ `http://www.beispiel.de` (URL und URI)
-+ `urn:isbn:978-3-96111-268-5` (URN und URI)

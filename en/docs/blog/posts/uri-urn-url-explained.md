@@ -68,10 +68,3 @@ Here:
 + **Structure**:
     - URL: Contains information about how to access a resource (protocol, hostname, path).
     - URN: Contains a unique name within a namespace, without location information.
-
-### Examples in Context
-
-A URI can be either a URL or a URN:
-
-+ `http://www.example.com` (URL and URI)
-+ `urn:isbn:978-3-96111-268-5` (URN and URI)
