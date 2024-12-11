@@ -34,13 +34,13 @@ theme:
       accent: 'green'
       toggle:
         icon: material/brightness-7
-        name: In den Dunkelmodus wechseln
+        name: Switch to dark mode
     - scheme: slate
       primary: 'green'
       accent: 'green'
       toggle:
         icon: material/brightness-4
-        name: In den Hellmodus wechseln
+        name: Switch to light mode
   font: false
   favicon: 'assets/logos/favicon.ico'
   logo: 'assets/logos/logo.svg'
