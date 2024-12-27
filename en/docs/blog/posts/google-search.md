@@ -146,6 +146,47 @@ For those who need it: This operator allows you to search for current stock pric
 
 Example: `stocks:AAPL`
 
+## Conversions
+
+Google can do a bit of maths too.
+
+### Units
+
+You can use the `in` operator to convert back and forth between units. An unit converter always appears.
+
+Example: `20km in mm`
+
+You can also simply search for `unit converter`, in which case the unit converter will also appear.
+
+### Colours
+
+By simply entering a colour code, it can easily be converted into another colour code:
+
+You can convert colour codes from:
+
++ Hex
++ RGB
++ Pantone
+
+Examples: 
+
++ `rgb(255, 255, 255)`
++ `rgb 255 255 255 255`
++ `#f0f0f0`
++ `colour f0f0f0`
++ `pantone 214 u`
++ `pms 200 c`
+
+A colour picker always appears, which displays the following colour systems:
+
++ Hex
++ RGB
++ HSV
++ HSL
++ CMYK
+
+You can also simply search for `color picker` and the colour picker will also appear.
+
 ## Why is it called *googling*?
 
 The verb *googling* is derived from the product name Google. The name Google itself is based on the English term *Googol*, a word coined by American mathematician Edward Kasner for the number 10<sup>100</sup>. That's a 1 followed by 100 zeros.

@@ -147,6 +147,47 @@ Wer es nötig hat: Mit diesem Operator kannst du nach aktuellen Aktienkursen suc
 
 Beispiel: `stocks:AAPL`
 
+## Konvertierungen
+
+Ein bisschen Mathematik kann Google auch.
+
+### Einheiten
+
+Mit dem Operator `in` kannst Du zwischen Einheiten hin- und herkonvertieren konvertieren. Dabei erscheint stets ein Umrechner (unit converter).
+
+Beispiel: `20km in mm`
+
+Du kannst auch einfach nach `unit converter` suchen, dann erscheint ebenfalls der Umrechner.
+
+### Farben
+
+Durch einfache Eingabe eines Farbcodes, kann dieser sehr leicht in einen anderen Farbcode umgewandelt werden:
+
+Du kannst dabei Farbcodes konvertieren von:
+
++ Hex
++ RGB
++ Pantone
+
+Beispiele: 
+
++ `rgb(255, 255, 255)`
++ `rgb 255 255 255`
++ `#f0f0f0`
++ `color f0f0f0`
++ `pantone 214 u`
++ `pms 200 c`
+
+Es erscheint dabei stets eine Farbauswahl (color picker), die folgende Farbsysteme anzeigt:
+
++ Hex
++ RGB
++ HSV
++ HSL
++ CMYK
+
+Du kannst auch einfach nach `color picker` suchen, dann erscheint ebenfalls die Farbauswahl.
+
 ## Warum heisst es eigentlich *googlen*?
 
 Das Verb *googlen* ist natürlich abgeleitet aus dem Produktnamen Google. Der Name Google wiederum basiert auf dem englischsprachigen Begriff *Googol*, einer Wortschöpfung des amerikanischen Mathematikers Edward Kasner für die Zahl 10<sup>100</sup>. Das ist eine 1 mit 100 Nullen. 
