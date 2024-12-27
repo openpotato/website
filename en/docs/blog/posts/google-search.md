@@ -173,7 +173,7 @@ Examples:
 + `rgb(255, 255, 255)`
 + `rgb 255 255 255 255`
 + `#f0f0f0`
-+ `colour f0f0f0`
++ `color f0f0f0`
 + `pantone 214 u`
 + `pms 200 c`
 
