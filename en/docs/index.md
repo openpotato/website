@@ -10,8 +10,8 @@ The name *OpenPotato* is a satirical nod to the somewhat derogatory German term 
 
 ### APIs
 
-+ [OpenHolidays API](https://www.openholidaysapi.org/de/): Provides data on public holidays and school vacations from 2020 onwards for a large number of countries through an open REST API interface.
-+ [OpenPLZ API](https://www.openplzapi.org/de/): Provides a public street directory for Germany, Austria, and Switzerland through an open REST API interface.
++ [OpenHolidays API](https://www.openholidaysapi.org/en/): Provides data on public holidays and school vacations from 2020 onwards for a large number of countries through an open REST API interface.
++ [OpenPLZ API](https://www.openplzapi.org/en/): Provides a public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland through an open REST API interface.
 
 ### Data Formats
 

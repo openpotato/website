@@ -11,7 +11,9 @@ Der Name *OpenPotato* ist eine satirische Anspielung auf den etwas abwertenden d
 ### APIs
 
 + [OpenHolidays API](https://www.openholidaysapi.org/de/): Bereitstellung von Daten zu gesetzlichen Feiertagen und Schulferien ab 2020 für eine große Anzahl an Ländern über eine offene REST-API-Schnittstelle.
-+ [OpenPLZ API](https://www.openplzapi.org/de/): Bereitstellung eines öffentlichen Strassenverzeichnisses für Deutschland, Österreich und die Schweiz über eine offene REST-API-Schnittstelle
++ [OpenPLZ API](https://www.openplzapi.org/de/): Bereitstellung eines öffentlichen Strassen- und Postleitzahlverzeichnisses für Deutschland, Liechtenstein, die Schweiz und Österreich über eine offene REST-API-Schnittstelle
+
+ öffentliches Strassen- und Postleitzahlverzeichnis für Deutschland, Liechtenstein, die Schweiz und Österreich
 
 ### Datenformate
 
