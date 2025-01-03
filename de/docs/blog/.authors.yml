@@ -1,6 +1,10 @@
 authors:
   fstueber:
     name: Frank Stüber
-    description: Creator
+    description: Autor
     avatar: https://avatars.githubusercontent.com/u/13050939
     url: https://github.com/fstueber
+  chatgtp:
+    name: Chat G. Teepee
+    description: Mitautor
+    avatar: assets/img/chatgtp-avatar.jpg

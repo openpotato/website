@@ -6,7 +6,7 @@ site_url: 'https://www.openpotato.org/en'
 
 # Copyright
 copyright:
-  '&copy; 2024 STÜBER SYSTEMS GmbH : <a href="https://legal.stueber.co.uk/imprint.php">Imprint</a> : <a href="https://legal.stueber.co.uk/privacy.php">Privacy</a>'
+  '&copy; 2025 STÜBER SYSTEMS GmbH : <a href="https://legal.stueber.co.uk/imprint.php">Imprint</a> : <a href="https://legal.stueber.co.uk/privacy.php">Privacy</a>'
 
 # Repository
 repo_name: 'On GitHub'
@@ -63,10 +63,6 @@ extra:
     - name: English
       lang: en
 
-# Customization
-extra_css:
-  - assets/css/custom.css
-
 # Plugins
 plugins:
   - blog:
@@ -79,11 +75,23 @@ plugins:
 markdown_extensions:
   - admonition
   - attr_list
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
   - toc:
       permalink: true
+
+# Customization
+extra_javascript:
+  - assets/js/katex.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/auto-render.min.js
+
+extra_css:
+  - assets/css/custom.css
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css
 
 # Navigation
 nav:
