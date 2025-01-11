@@ -17,4 +17,4 @@ If you would like to contact us, you have the following options:
 
     + **openpotato@stueber.de**
   
-We are also on [Mastodon](https://fosstodon.org/@openpotato) and [Twitter, er so X](https://twitter.com/openpotatis).
+We are also on [Bluesky](https://bsky.app/profile/openpotato.org) and [Mastodon](https://fosstodon.org/@openpotato).
