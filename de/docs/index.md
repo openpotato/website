@@ -8,16 +8,17 @@ Der Name *OpenPotato* ist eine satirische Anspielung auf den etwas abwertenden d
 
 ## Die Projekte
 
-### APIs
+### Open Data APIs
 
-+ [OpenHolidays API](https://www.openholidaysapi.org/de/): Bereitstellung von Daten zu gesetzlichen Feiertagen und Schulferien ab 2020 für eine große Anzahl an Ländern über eine offene REST-API-Schnittstelle.
++ [OpenHolidays API](https://www.openholidaysapi.org/de/): Bereitstellung von Daten zu gesetzlichen Feiertagen und Schulferien für eine große Anzahl an Ländern über eine offene REST-API-Schnittstelle.
 + [OpenPLZ API](https://www.openplzapi.org/de/): Bereitstellung eines öffentlichen Strassen- und Postleitzahlverzeichnisses für Deutschland, Liechtenstein, die Schweiz und Österreich über eine offene REST-API-Schnittstelle.
 
-### Datenformate
+### Offene Standards
 
++ [OpenCodeList](https://openpotato.github.io/opencodelist/de/): Ein standardisiertes JSON-Format für die generische Repräsentation von Code-Listen.
 + [OpenT8](https://openpotato.github.io/opent8/): Ein standardisiertes JSON-Format zum Abbilden von komplexen Stundenplandaten.
 + [CSV Table Schema](https://openpotato.github.io/csv-table-schema/): Ein pragmatischer Ansatz für die Definition von CSV-Schemata über JSON.
 
 ### Werkzeuge
 
-+ [SQLDocs](https://github.com/openpotato/sqldocs): Erstellen von MkDocs-Schemadokumentationen für relationale Datenbanken. 
++ [SQLDocs](https://github.com/openpotato/sqldocs): Create MkDocs schema documentation for relational databases.+ [SQLDocs](https://github.com/openpotato/sqldocs): Erstellen von MkDocs-Schemadokumentationen für relationale Datenbanken. 
