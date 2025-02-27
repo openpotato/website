@@ -17,7 +17,7 @@ APIs sind das Fundament der modernen Softwareentwicklung. Sie ermöglichen die K
 
 ## Historie von REST
 
-Die REST-Architektur wurde erstmals 2000 von Roy Fielding in seiner Dissertation [Architectural Styles and the Design of Network-based Software Architectures]((https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)) beschrieben. Fielding, einer der Hauptautoren der HTTP-Spezifikationen, wollte eine einfachere und flexiblere Methode zur Kommunikation über das Web definieren als es SOAP oder andere Protokolle boten.
+Die REST-Architektur wurde erstmals 2000 von Roy Fielding in seiner Dissertation [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) beschrieben. Fielding, einer der Hauptautoren der HTTP-Spezifikationen, wollte eine einfachere und flexiblere Methode zur Kommunikation über das Web definieren als es SOAP oder andere Protokolle boten.
 
 REST wurde schnell populär, insbesondere mit dem Aufstieg des Web 2.0, da es eine unkomplizierte Möglichkeit bot, Ressourcen über HTTP zu verwalten. Große Technologieunternehmen wie Twitter/X, Meta und Google haben früh RESTful APIs implementiert, um ihre Dienste für Entwickler zugänglich zu machen. Heutzutage sind RESTful APIs die Basis vieler Web- und Cloud-Dienste.
 

@@ -12,6 +12,7 @@ Der Name *OpenPotato* ist eine satirische Anspielung auf den etwas abwertenden d
 
 + [OpenHolidays API](https://www.openholidaysapi.org/de/): Bereitstellung von Daten zu gesetzlichen Feiertagen und Schulferien für eine große Anzahl an Ländern über eine offene REST-API-Schnittstelle.
 + [OpenPLZ API](https://www.openplzapi.org/de/): Bereitstellung eines öffentlichen Strassen- und Postleitzahlverzeichnisses für Deutschland, Liechtenstein, die Schweiz und Österreich über eine offene REST-API-Schnittstelle.
++ [CodeListHub](https://www.codelisthub.org/de/): Eine zentrale Ablage für Code-Listen bzw. Schlüsselverzeichnisse im OpenCodeList-Format. Abrufbar über eine offene REST-API-Schnittstelle.
 
 ### Offene Standards
 
